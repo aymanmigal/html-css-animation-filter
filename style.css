@@ -308,20 +308,20 @@
         right: 20%;
         bottom: -10px;
     }
-    17.5% {
+    20% {
         right: calc(100% - 30px);
         bottom: -10px;
     }
-    32.5% {
+    35% {
         right: calc(100% - 30px);
         bottom: calc(100% - 10px);
     }
-    67.5% {
+    70% {
         right: -30px;
         bottom: calc(100% - 10px);
         
     }
-    82.5% {
+    85% {
         right: -30px;
         bottom: -10px;
     }
